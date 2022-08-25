@@ -1,5 +1,6 @@
 {
   "name": "product-preview-card",
+  "homepage": "https://github.com/AtanasovCode/product-preview-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
